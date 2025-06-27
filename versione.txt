@@ -1,0 +1,4 @@
+1.0.1
+- Aggiunto supporto per pulizia Chrome, Firefox, Edge
+- Backup automatico prima della pulizia
+- Corretto layout bottoni in GUI
